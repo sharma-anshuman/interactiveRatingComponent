@@ -81,3 +81,27 @@ a{
     text-align: center;
     text-decoration: none;
 }
+
+.thanksImg{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.thanksText{
+    font-family: 'Varela Round', sans-serif;
+    color: white;
+    text-align: center;
+}
+.thanksText p{
+    color: #8D8D8D;
+}
+
+.scorePara{
+    margin: 1.3rem;
+    padding: 0.6rem;
+    text-align: center;
+    border: 0px solid black;
+    background-color: black;
+    color: #fb7413;
+    border-radius: 6rem;
+}
