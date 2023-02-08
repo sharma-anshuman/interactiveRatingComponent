@@ -19,7 +19,6 @@ body{
     margin-right: auto;
     text-align: left;
     padding: 0.4rem;
-    /* background-color: white; */
 }
 
 .text h1{
@@ -50,6 +49,9 @@ body{
 }
 .buttons{
     margin-bottom: 1.2rem;
+}
+.buttons button:focus{
+    background-color: grey;
 }
 
 .buttons button:hover{
